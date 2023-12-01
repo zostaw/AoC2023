@@ -14,38 +14,36 @@ ___________________-/
   \                \
    | [day_01]      |
    | - Cargo.toml  |
-    \              /
-     \             |
-      | [src]      \
-      | - part1.rs |
-      | - part2.rs |
+    \              |
+     \             \
+      | [src/bin]   |
+      | - part1.rs  |
+      / - part2.rs  |
      /             /
     /              |
    | [day_02]      |
    | - Cargo.toml  |
-    \              /
-     \             |
-      | [src]      \
-      | - part1.rs |
-      | - part2.rs |
-     /             /
-    /              |
+    \              |
+     \             \
+      | [src/bin]   |
+      | - part1.rs  |
+      / - part2.rs  |
+    /              /
    | [day_xy]      |
    | - Cargo.toml  |
-    \              /
-     \             |
-      | [src]      \
-      | - part1.rs |
-      | - part2.rs |
-     /             /
-    /              |
+    \              |
+     \             \
+      | [src/bin]   |
+      | - part1.rs  |
+      / - part2.rs  |
+    /              /
    | [day_25]      |
    | - Cargo.toml  |
-    \              /
-     \             |
-      | [src]      \
-      | - part1.rs |
-      | - part2.rs |
+    \              |
+     \             \
+      | [src/bin]   |
+      | - part1.rs  |
+      / - part2.rs  |
      /              \
     /################\
    |##################|
